@@ -11,7 +11,8 @@ public class GitTestTwo {
 		System.out.println("This is my GITTestTwoCase Test Case1");
 		System.out.println("This is my GITTestTwoCase Test Case2");
 		System.out.println("This is my GITTestTwoCase Test Case3");
-		
+		System.out.println("This is my GITTestTwoCase Test Case4");
+		System.out.println("This is my GITTestTwoCase Test Case5");
 	}
 
 }
